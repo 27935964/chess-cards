@@ -1,0 +1,6 @@
+#过滤整个文件夹
+build/
+#过滤所有.class后缀的文件；
+*.class
+#过滤具体文件
+local.properties
